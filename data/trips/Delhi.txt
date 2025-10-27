@@ -1,0 +1,11 @@
+Trip Name: Delhi
+
+Category        Description          Amount     Date        
+---------------------------------------------------------------
+Travel          Train                2000.00    27/10/2025  
+Stay            Hotel A              4000.00    27/10/2025  
+Food            Restaurant X         1500.00    27/10/2025  
+Shopping        Clothes              950.00     27/10/2025  
+Miscellaneous   Activity             560.00     27/10/2025  
+
+Total Expense: 9010.0
